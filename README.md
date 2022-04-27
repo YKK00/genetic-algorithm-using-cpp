@@ -1,5 +1,5 @@
 # genetic-algorithm-using-cpp
-*This folder shows how I use genenic algorithm to solve specific problemes.
+*This folder shows how I use genenic algorithm for the detection of various parameters in geological explorationc problemes.
 
 Genetic algorithm is a global optimization algorithm, which can find solutions suitable for practical problems by simulating the law of "survival of the fittest" in 
 nature. Premature maturity that leads to local convergence and other problems are the main shortcomings of traditional genetic algorithms. This paper adopts the retained optimal descendant algorithm, catastrophe algorithm, stretch fitness algorithm, and adaptive algorithm to improve the traditional genetic algorithm and combine them to

@@ -1,0 +1,23 @@
+﻿  源.cpp
+C:\Users\18251\Desktop\GA1\GA\源.cpp(138,33): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Users\18251\Desktop\GA1\GA\源.cpp(224,9): warning C4101: “cosPhi”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(228,9): warning C4101: “NormalIndividualFit”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(300,9): warning C4101: “IndividualProb”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(299,9): warning C4101: “TotalFit”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(493,6): warning C4101: “z”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(558,9): warning C4101: “b”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(555,9): warning C4101: “r”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(805,9): warning C4101: “Q”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(799,9): warning C4101: “cosPhi”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(806,9): warning C4101: “Lin”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(807,9): warning C4101: “Rmodel”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(840,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+C:\Users\18251\Desktop\GA1\GA\源.cpp(846,49): warning C4101: “StandardDeviationc”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(846,9): warning C4101: “StandardDeviationa”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(847,41): warning C4101: “RelativeErrorc”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(846,29): warning C4101: “StandardDeviationb”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(846,69): warning C4101: “StandardDeviationd”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(847,57): warning C4101: “RelativeErrord”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(847,9): warning C4101: “RelativeErrora”: 未引用的局部变量
+C:\Users\18251\Desktop\GA1\GA\源.cpp(847,25): warning C4101: “RelativeErrorb”: 未引用的局部变量
+  GA.vcxproj -> C:\Users\18251\Desktop\GA1\GA\x64\Debug\GA.exe

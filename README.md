@@ -13,4 +13,6 @@ The error between the result calculated by this algorithm and the real value (va
 
 ![GAresults](https://user-images.githubusercontent.com/99771239/165602049-f7d9ec3d-6886-4a32-b02b-a2f79ac6ee3b.jpg)
 
+More details on the problem solved and how the code works can be found in the comments in source.cpp.
+
 It can be seen from the inversion results that this algorithm can generate inversion results with high accuracy.
